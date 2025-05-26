@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Jalan1
+  - CUTSCENE_JALAN1
+  - Jalan2
+  - CUTSCENE_OPENING6
+  - CUTSCENE_MONSTER_PERGI
+  - CUTSCENE_OPENING5
+  - CUTSCENE_MONSTER_DATANG
+  - CUTSCENE_OPENING4
+  - CUTSCENE_FELIX_BERDIRI
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,27 @@
+#CUTSCENE_OPENING5
+Ada
+Aislin|  Aku… di mana ini? |Hutan|Talk
+Felix| Selamat datang… di Dream Realm. |Hutan|Talk2
+Aislin| Tempat ini… kenapa semua terasa salah? |Hutan|Talk
+Felix| Karena di sinilah tempat pikiranmu menari dengan ketakutanmu. Tempat mimpi dan kenyataan bercampur. |Hutan|Talk2
+Felix| Jangan percaya apa pun yang kau lihat... bahkan bayanganmu sendiri. |Hutan|Talk2
+Aislin| ...Ada yang mengikuti kita? |Hutan|Talk
+Felix| Dia datang. |Hutan|Talk
+
+#CUTSCENE_MONSTER_DATANG
+Ada
+Limbus| Apa gunanya bertahan kalau kau selalu gagal…? Lihat siapa dirimu sekarang… hanya beban.
+Aislin| Tidak… suara ini lagi… |Hutan|Focus
+Felix| Melawan, Aislin! Kau punya kekuatan sekarang! Ingat, ini semua berasal dari dalam dirimu. Kau bisa mengalahkan mereka! |Hutan|TalkYes
+Aislin| Aku bukan beban. Aku bukan korban. Aku… akan melawan! |Hutan|TalkAngry
+Aislin| Ini bukan akhir… aku masih punya kendali! |Hutan|TalkAngry
+Limbus| Kenapa kau bertahan? Setiap langkahmu adalah kegagalan yang menunggu… hanya ada kehancuran di depanmu.
+Aislin| Kekuatan yang kau katakan… aku tidak takut. Aku akan buktikan bahwa aku lebih dari apa yang mereka lihat. |Focus
+Aislin| Monster ini… aku akan menghadapinya. |Hutan|TalkAngry
+Felix| Itulah Aislin yang aku kenal. Jangan biarkan bayangan mereka mendikte hidupmu. |Hutan|TalkHandGesture
+Felix| Melawan, Aislin! Kau punya kekuatan sekarang! |Hutan|TalkHandGesture
+Aislin| Aku bukan beban. Aku bukan korban. Aku… akan melawan! |Hutan|TalkAngry
+Limbus| Kau tidak akan pernah menang! Setiap seranganmu akan sia-sia!
+Aislin| Jika itu yang kau pikirkan, berarti kau salah! |Hutan|TalkAngry
+Felix| Itu dia! Gunakan kekuatanmu! Kau sudah lebih kuat dari yang kau kira! |Hutan|TalkHandGesture
+Aislin| Kali ini, aku yang akan menang! |Hutan|TalkAngry

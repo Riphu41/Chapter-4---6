@@ -1,0 +1,27 @@
+#CUTSCENE_OPENING4
+Aislin| ...Dimana... ini
+[Redacted]
+Felix| Tempat yang cukup aman... untuk sementara.
+Aislin| Kamu… nyelametin aku?
+Felix| Aku cuma memindahkanmu sebelum mereka benar-benar menyakitimu. Kau yang bertarung untuk bertahan.
+Aislin| ...Aku nggak bisa menang. Bahkan kalau aku pukul mereka terus... rasanya kayak nggak cukup.
+Felix| Itu karena musuhmu bukan cuma mereka. Tapi rasa takut... dan luka yang belum selesai.
+Aislin| Kamu... siapa, sebenarnya?
+
+#CUTSCENE_FELIX_BERDIRI
+[Redacted]
+Felix| Kau ingat mimpi buruk yang selalu datang? Tentang kehancuran, kehilangan, suara yang berbisik agar menyerah?
+Aislin| Aku pikir itu cuma... mimpi.
+Felix| Itu bukan sekadar mimpi. Itu pintu.
+Felix| Aku dari tempat itu. Dream Realm. Dunia tempat semua mimpi, ketakutan, dan keinginan manusia hidup dan bernafas.
+Aislin| ...Kamu dari mimpi?
+Felix| Dan entah kenapa... kamu juga bisa masuk ke sana. Tapi hanya kalau kamu bersamaku.
+Aislin| Kenapa aku?
+Felix| Karena kamu... sedang berada di batas antara menyerah dan bertahan. 
+Felix| Dream Realm memilih orang-orang yang goyah. 
+Felix| Tapi itu juga kesempatan... untuk mengalahkan ketakutanmu sendiri.
+Aislin| ...Kalau aku masuk ke sana… apa aku bisa keluar dari semua ini? Utang, rasa takut, semua yang menghantui?
+Felix| Atau kau bisa tenggelam lebih dalam. Dream Realm bukan tempat untuk orang yang ingin lari.
+Felix| Tapi untuk orang yang ingin berubah.
+Aislin| Kalau memang itu satu-satunya jalan... aku mau lihat apa yang ada di sana.
+Felix| ...Baik. Kita akan mulai malam ini.

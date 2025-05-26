@@ -1,0 +1,37 @@
+#CUTSCENE_JALAN1
+Aislin|
+Aislin|Oke... keluar dari taman. Aman... mungkin.|Jalan|MenghelaNafas
+Aislin|...Dia nggak bakal ngikutin sampai sini, kan?|Jalan|Scared
+Aislin|Oke, pelan-pelan... aku cuma perlu belok ke gang kiri... terus lurus, terus—|Jalan2|Talk
+Aislin|...Grozar nggak mungkin tahu jalan pintas ini... kan?|Jalan2|Talk
+
+#CUTSCENE_JALAN2
+Grozar|
+Grozar|Hei, Aislin! Risolmu enak nggak kalau dimakan sambil lari, hah?|Jalan2|Idle
+Aislin|Bukan suara itu lagi... dia beneran ngejar aku?!|Jalan2|Defeat
+Grozar|Kau pikir bisa main petak umpet? Dunia kecil, Aislin. Dan aku selalu tahu ke mana orang yang takut bakal lari.|Jalan2|TalkDismissing2
+Aislin|Aku nggak mau ini lagi... cukup...|Jalan2|Focus
+
+#CUTSCENE_GANGBUNTU
+Aislin|
+Aislin|Tidak… jalan buntu?! Serius?!|GangBuntu|MenghelaNafas
+Grozar|Apa kubilang? Dunia ini sempit... tapi utangmu panjang. Dan waktumu... udah habis.|GangBuntu|Talk
+Aislin|Aku cuma butuh waktu! Aku kerja siang malam! Aku nggak pernah kabur!|GangBuntu|Defeat
+Grozar|Kau pikir orang peduli usaha? Dunia cuma peduli hasil. Dan kau… nihil.|GangBuntu|Talk
+Aislin|Aku tahu aku bukan siapa-siapa. Tapi aku nggak mau jadi boneka ketakutan selamanya.|GangBuntu|Focus
+Grozar|Kau bisa pilih : jatuh sekarang, atau berdiri dan tetap kalah. Tapi percaya deh... nggak ada yang bakal nyelamatinmu di sini.|GangBuntu|TalkArmGesture
+
+#CUTSCENE_FELIX
+Felix|
+Felix|Kau tidak sendiri. Gunakan kekuatanmu... mulai dari langkah pertama.|GangBuntu|Calm
+Aislin|...Aku udah cukup lama lari. Kalau harus jatuh, lebih baik sambil melawan.|GangBuntu|Talk
+Aislin|Ayo. Aku nggak akan diam lagi.|GangBuntu|Talk
+
+#CUTSCENE_GROZAR
+Grozar|Kalau itu maumu... kita selesaikan sekarang!|GangBuntu|TalkDismissing2
+
+#CUTSCENE_AISLIN
+Aislin|
+Aislin|AKU NGGAK TAKUT LAGI!|GangBuntu|Shout
+Grozar|Berani juga! Tapi kita lihat... seberapa lama kau bisa tahan!|GangBuntu|TalkHandGesture
+#CUTSCENE_PENUTUP
