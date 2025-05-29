@@ -13,6 +13,9 @@ TagManager:
   - CUTSCENE_MONSTER_DATANG
   - CUTSCENE_OPENING4
   - CUTSCENE_FELIX_BERDIRI
+  - Hutan
+  - Kamar
+  - Istana
   layers:
   - Default
   - TransparentFX

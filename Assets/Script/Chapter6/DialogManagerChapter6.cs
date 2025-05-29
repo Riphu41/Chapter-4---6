@@ -33,11 +33,17 @@ public class DialogManagerChapter6 : MonoBehaviour
 
     [Header("Animator")]
     public Animator aislinAnimator;
-    public Animator grozarAnimator;
+    public Animator limbusAnimator;
     public Animator felixAnimator;
+    public Animator edricAnimator;
 
     [Header("BGM Manager")]
     public CutsceneBGMManager bgmManager;
+
+    [Header("Dialog BGM")]
+    public AudioSource dialogBGMSource;
+    public AudioClip dialogBGMClip;
+    public float fadeDuration = 1.5f;
 
     private List<string> lines = new List<string>();
     private int currentLine = 0;
@@ -271,13 +277,17 @@ public class DialogManagerChapter6 : MonoBehaviour
         {
             aislinAnimator.SetTrigger(trigger);
         }
-        else if (speaker == "Grozar" && grozarAnimator != null)
+        else if (speaker == "Limbus" && limbusAnimator != null)
         {
-            grozarAnimator.SetTrigger(trigger);
+            limbusAnimator.SetTrigger(trigger);
         }
         else if (speaker == "Felix" && felixAnimator != null)
         {
             felixAnimator.SetTrigger(trigger);
+        }
+        else if (speaker == "Edric" && edricAnimator != null)
+        {
+            edricAnimator.SetTrigger(trigger);
         }
     }
 
@@ -291,5 +301,43 @@ public class DialogManagerChapter6 : MonoBehaviour
     {
         if (bgmManager != null)
             bgmManager.FadeOutCurrent();
+    }
+
+    void PlayDialogBGM()
+    {
+        if (dialogBGMSource != null && dialogBGMClip != null)
+        {
+            dialogBGMSource.clip = dialogBGMClip;
+            dialogBGMSource.loop = true;
+            dialogBGMSource.volume = 0f;
+            dialogBGMSource.Play();
+            StartCoroutine(FadeAudio(dialogBGMSource, 1f, fadeDuration));
+        }
+    }
+
+    IEnumerator FadeAndStopDialogBGM()
+    {
+        yield return FadeAudio(dialogBGMSource, 0f, fadeDuration);
+        dialogBGMSource.Stop();
+    }
+
+    IEnumerator FadeAudio(AudioSource audioSource, float targetVolume, float duration)
+    {
+        if (audioSource == null) yield break;
+
+        float startVolume = audioSource.volume;
+        float time = 0f;
+
+        while (time < duration)
+        {
+            time += Time.deltaTime;
+            audioSource.volume = Mathf.Lerp(startVolume, targetVolume, time / duration);
+            yield return null;
+        }
+
+        audioSource.volume = targetVolume;
+
+        if (Mathf.Approximately(targetVolume, 0f))
+            audioSource.Stop();
     }
 }

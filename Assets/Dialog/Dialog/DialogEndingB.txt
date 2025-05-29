@@ -1,0 +1,8 @@
+Aislin| Ini... kekuatan yang bisa mengubah segalanya. |Istana|Talk
+Felix| Aislin. Kalau kau melakukannya... kau akan kehilangan lebih dari sekadar rasa takut. |Istana|Talk
+Aislin| Aku lelah jadi yang paling menderita. Sekarang... giliranku berkuasa. |Istana|TalkAngry
+Edric| Akhirnya... kau mengerti... |Istana|Talk
+Felix| Kau bukan lagi Aislin yang kupandu. Tapi aku harap... kau masih bisa menemukan jalanmu sendiri. |Istana|Talk
+Aislin| Aku tidak butuh dipandu lagi, Felix. Terima kasih… untuk sejauh ini. |Istana|Talk
+Felix| Kalau begitu... selamat tinggal. |Istana|Talk
+Aislin| Selamat tinggal. |Istana|Talk

@@ -369,6 +369,7 @@
 "Assets/Script/Chapter5/DialogManagerChapter5.cs"
 "Assets/Script/Chapter6/DialogManagerChapter6.cs"
 "Assets/Script/CutsceneManager.cs"
+"Assets/Script/Ending/DialogManagerEnding.cs"
 "Assets/Script/Shared/Enums/BackgroundType.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs"

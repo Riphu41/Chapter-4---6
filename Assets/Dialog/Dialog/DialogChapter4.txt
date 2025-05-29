@@ -1,27 +1,27 @@
 #CUTSCENE_OPENING4
-Aislin| ...Dimana... ini
-[Redacted]
-Felix| Tempat yang cukup aman... untuk sementara.
-Aislin| Kamu… nyelametin aku?
-Felix| Aku cuma memindahkanmu sebelum mereka benar-benar menyakitimu. Kau yang bertarung untuk bertahan.
-Aislin| ...Aku nggak bisa menang. Bahkan kalau aku pukul mereka terus... rasanya kayak nggak cukup.
-Felix| Itu karena musuhmu bukan cuma mereka. Tapi rasa takut... dan luka yang belum selesai.
-Aislin| Kamu... siapa, sebenarnya?
+ada
+Aislin| ...Dimana... ini |Kamar|Talk
+Felix| Tempat yang cukup aman... untuk sementara. |Kamar|Talk
+Aislin| Kamu… nyelametin aku? |Kamar|Talk
+Felix| Aku cuma memindahkanmu sebelum mereka benar-benar menyakitimu. Kau yang bertarung untuk bertahan. |Kamar|TalkHandGesture
+Aislin| ...Aku nggak bisa menang. Bahkan kalau aku pukul mereka terus... rasanya kayak nggak cukup. |Kamar|TalkSad
+Felix| Itu karena musuhmu bukan cuma mereka. Tapi rasa takut... dan luka yang belum selesai. |Kamar|Talk
+Aislin| Kamu... siapa, sebenarnya? |Kamar|Talk
 
 #CUTSCENE_FELIX_BERDIRI
-[Redacted]
-Felix| Kau ingat mimpi buruk yang selalu datang? Tentang kehancuran, kehilangan, suara yang berbisik agar menyerah?
-Aislin| Aku pikir itu cuma... mimpi.
-Felix| Itu bukan sekadar mimpi. Itu pintu.
-Felix| Aku dari tempat itu. Dream Realm. Dunia tempat semua mimpi, ketakutan, dan keinginan manusia hidup dan bernafas.
-Aislin| ...Kamu dari mimpi?
-Felix| Dan entah kenapa... kamu juga bisa masuk ke sana. Tapi hanya kalau kamu bersamaku.
-Aislin| Kenapa aku?
-Felix| Karena kamu... sedang berada di batas antara menyerah dan bertahan. 
-Felix| Dream Realm memilih orang-orang yang goyah. 
-Felix| Tapi itu juga kesempatan... untuk mengalahkan ketakutanmu sendiri.
-Aislin| ...Kalau aku masuk ke sana… apa aku bisa keluar dari semua ini? Utang, rasa takut, semua yang menghantui?
-Felix| Atau kau bisa tenggelam lebih dalam. Dream Realm bukan tempat untuk orang yang ingin lari.
-Felix| Tapi untuk orang yang ingin berubah.
-Aislin| Kalau memang itu satu-satunya jalan... aku mau lihat apa yang ada di sana.
-Felix| ...Baik. Kita akan mulai malam ini.
+ada
+Felix| Kau ingat mimpi buruk yang selalu datang? Tentang kehancuran, kehilangan, suara yang berbisik agar menyerah? |Kamar|TalkHandGesture
+Aislin| Aku pikir itu cuma... mimpi. |Kamar|MenghelaNafas
+Felix| Itu bukan sekadar mimpi. Itu pintu. |Kamar|Talk2
+Felix| Aku dari tempat itu. Dream Realm. Dunia tempat semua mimpi, ketakutan, dan keinginan manusia hidup dan bernafas. |Kamar|Talk2
+Aislin| ...Kamu dari mimpi? |Kamar|Talk
+Felix| Dan entah kenapa... kamu juga bisa masuk ke sana. Tapi hanya kalau kamu bersamaku.|Kamar|Talk
+Aislin| Kenapa aku? |Kamar|Talk aaaa
+Felix| Karena kamu... sedang berada di batas antara menyerah dan bertahan. |Kamar|Talk
+Felix| Dream Realm memilih orang-orang yang goyah. |Kamar|Talk
+Felix| Tapi itu juga kesempatan... untuk mengalahkan ketakutanmu sendiri. |Kamar|Talk
+Aislin| ...Kalau aku masuk ke sana… apa aku bisa keluar dari semua ini? Utang, rasa takut, semua yang menghantui? |Kamar|Talk
+Felix| Atau kau bisa tenggelam lebih dalam. Dream Realm bukan tempat untuk orang yang ingin lari. |Kamar|Talk2
+Felix| Tapi untuk orang yang ingin berubah. |Kamar|Talk2
+Aislin| Kalau memang itu satu-satunya jalan... aku mau lihat apa yang ada di sana. |Kamar|Talk
+Felix| ...Baik. Kita akan mulai malam ini. |Kamar|TalkYes

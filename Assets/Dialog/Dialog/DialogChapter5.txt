@@ -10,18 +10,18 @@ Felix| Dia datang. |Hutan|Talk
 
 #CUTSCENE_MONSTER_DATANG
 Ada
-Limbus| Apa gunanya bertahan kalau kau selalu gagal…? Lihat siapa dirimu sekarang… hanya beban.
+Limbus| Apa gunanya bertahan kalau kau selalu gagal…? Lihat siapa dirimu sekarang… hanya beban. |Hutan|Roar
 Aislin| Tidak… suara ini lagi… |Hutan|Focus
 Felix| Melawan, Aislin! Kau punya kekuatan sekarang! Ingat, ini semua berasal dari dalam dirimu. Kau bisa mengalahkan mereka! |Hutan|TalkYes
 Aislin| Aku bukan beban. Aku bukan korban. Aku… akan melawan! |Hutan|TalkAngry
 Aislin| Ini bukan akhir… aku masih punya kendali! |Hutan|TalkAngry
-Limbus| Kenapa kau bertahan? Setiap langkahmu adalah kegagalan yang menunggu… hanya ada kehancuran di depanmu.
+Limbus| Kenapa kau bertahan? Setiap langkahmu adalah kegagalan yang menunggu… hanya ada kehancuran di depanmu. |Hutan|Talk1
 Aislin| Kekuatan yang kau katakan… aku tidak takut. Aku akan buktikan bahwa aku lebih dari apa yang mereka lihat. |Focus
 Aislin| Monster ini… aku akan menghadapinya. |Hutan|TalkAngry
 Felix| Itulah Aislin yang aku kenal. Jangan biarkan bayangan mereka mendikte hidupmu. |Hutan|TalkHandGesture
 Felix| Melawan, Aislin! Kau punya kekuatan sekarang! |Hutan|TalkHandGesture
 Aislin| Aku bukan beban. Aku bukan korban. Aku… akan melawan! |Hutan|TalkAngry
-Limbus| Kau tidak akan pernah menang! Setiap seranganmu akan sia-sia!
+Limbus| Kau tidak akan pernah menang! Setiap seranganmu akan sia-sia! |Hutan|Talk1
 Aislin| Jika itu yang kau pikirkan, berarti kau salah! |Hutan|TalkAngry
-Felix| Itu dia! Gunakan kekuatanmu! Kau sudah lebih kuat dari yang kau kira! |Hutan|TalkHandGesture
+Felix| Itu dia! Gunakan kekuatanmu! Kau sudah lebih kuat dari yang kau kira! |Hutan|TalkFistPump
 Aislin| Kali ini, aku yang akan menang! |Hutan|TalkAngry

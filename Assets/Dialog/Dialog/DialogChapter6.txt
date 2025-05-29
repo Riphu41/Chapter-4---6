@@ -2,29 +2,29 @@
 Ada
 Aislin| Tempat ini… megah, tapi aneh. Aku merasa seperti… pernah bermimpi tentang ini. |Istana|Talk
 Felix| Karena ini memang mimpi. Tapi bukan milikmu saja. Ini kumpulan mimpi dan obsesi yang ditinggalkan banyak orang.|Istana|Talk
-Limbus| Dan kau, Aislin, adalah salah satu yang paling menjanjikan.
+Limbus| Dan kau, Aislin, adalah salah satu yang paling menjanjikan.|Istana|Talk
 Aislin| …Kau siapa? |Istana|Talk
-Limbus| Seseorang yang bisa membuat semua bebanmu hilang. Kau ingin bebas, bukan? Aku bisa memberimu semuanya.
+Limbus| Seseorang yang bisa membuat semua bebanmu hilang. Kau ingin bebas, bukan? Aku bisa memberimu semuanya.|Istana|Talk
 Aislin| Semuanya? Termasuk… membebaskanku dari utang… dari hidup yang seperti neraka ini? |Istana|Talk
-Limbus| Bukan cuma bebas. Kaya. Dicintai. Tak lagi sendiri. Cukup satu kata: iya.
+Limbus| Bukan cuma bebas. Kaya. Dicintai. Tak lagi sendiri. Cukup satu kata: iya.|Istana|Talk
 Felix| Jangan dengarkan dia. |Istana|TalkHandGesture
 Aislin| Felix, kalau… kalau memang ada jalan secepat ini… kenapa aku harus terus menderita? |Istana|TalkSad
-Limbus| Lihat mereka, semua yang kau bantu. Apa mereka peduli padamu? Dunia tak akan membalas kebaikanmu.
+Limbus| Lihat mereka, semua yang kau bantu. Apa mereka peduli padamu? Dunia tak akan membalas kebaikanmu.|Istana|Talk1
 Aislin| …Aku cuma… ingin berhenti merasa gagal. |Istana|TalkSad
 Felix| Kalau kau terima tawarannya, kau bukan berhenti gagal. Kau berhenti jadi dirimu sendiri. |Istana|TalkHandGesture
 Aislin| Kalau aku tidak mengambilnya, apa jaminannya aku bisa bertahan? |Istana|TalkSad
 Felix| Tidak ada. Tapi setidaknya kau tidak menjual jiwamu untuk mimpi palsu. |Istana|TalkHandGesture
 Aislin| …Aku… |Istana|MenghelaNafas
-Limbus| Kau tahu ini yang kau inginkan sejak awal.
+Limbus| Kau tahu ini yang kau inginkan sejak awal.|Istana|Talk1
 Aislin| Aku ingin bebas… tapi bukan dengan kehilangan diriku sendiri. |Istana|TalkAngry
 
 #CUTSCENE_MONSTER_PERGI
 Ada
-Edric| Sia-sia. Maka kau harus hadapi kenyataan yang sesungguhnya.
+Edric| Sia-sia. Maka kau harus hadapi kenyataan yang sesungguhnya.|Istana|Talk2
 Aislin| Kenapa… bentukmu berubah? |Istana|Talk
 Felix| Karena dia bukan cuma godaan. Dia sumber semua ini. Dia… ayahku. |Istana|TalkHandGesture
 Aislin| Apa?! |Istana|TalkAngry
-Edric| Kau selalu menolak jalan yang kupilih, Felix. Tapi kau tetap kembali. 
-Edric| Karena pada akhirnya… semua kembali pada mimpi.
+Edric| Kau selalu menolak jalan yang kupilih, Felix. Tapi kau tetap kembali. |Istana|Talk
+Edric| Karena pada akhirnya… semua kembali pada mimpi.|Istana|Talk2
 Felix| Bukan mimpi. Tapi ambisi kosong yang menghancurkan segalanya. Termasuk aku. |Istana|TalkHandGesture
-Edric| Kalau begitu, mari buktikan siapa yang benar. Aku… atau kalian.
+Edric| Kalau begitu, mari buktikan siapa yang benar. Aku… atau kalian.|Istana|Talk2

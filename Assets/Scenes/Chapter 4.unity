@@ -164,8 +164,8 @@ GameObject:
   - component: {fileID: 282779057}
   - component: {fileID: 282779056}
   m_Layer: 0
-  m_Name: Background_Jalan2 (1)
-  m_TagString: Jalan2
+  m_Name: Background_Kamar2
+  m_TagString: Kamar
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -836,8 +836,8 @@ GameObject:
   - component: {fileID: 980668731}
   - component: {fileID: 980668730}
   m_Layer: 0
-  m_Name: Background_Jalan1
-  m_TagString: Jalan1
+  m_Name: Background_Kamar1
+  m_TagString: Kamar
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1484,13 +1484,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b48a3c3a405c86845a49b51b1b0e7a42, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bgmList:
-  - tag: CUTSCENE_JALAN1
-    audioSource: {fileID: 0}
-  - tag: CUTSCENE_JALAN2
-    audioSource: {fileID: 0}
-  - tag: CUTSCENE_GANGBUNTU
-    audioSource: {fileID: 0}
+  bgmList: []
   fadeDuration: 1
 --- !u!4 &1257292853
 Transform:
@@ -1631,10 +1625,8 @@ MonoBehaviour:
   cameraTransform: {fileID: 1233839690}
   cameraMoveSpeed: 3
   cameraPoints:
-  - dialogIndex: 1
-    targetTransform: {fileID: 508798061}
   - dialogIndex: 2
-    targetTransform: {fileID: 139617400}
+    targetTransform: {fileID: 508798061}
   - dialogIndex: 3
     targetTransform: {fileID: 139617400}
   - dialogIndex: 4
@@ -1647,6 +1639,8 @@ MonoBehaviour:
     targetTransform: {fileID: 139617400}
   - dialogIndex: 8
     targetTransform: {fileID: 508798061}
+  - dialogIndex: 9
+    targetTransform: {fileID: 139617400}
   - dialogIndex: 11
     targetTransform: {fileID: 139617400}
   - dialogIndex: 12
@@ -1683,7 +1677,10 @@ MonoBehaviour:
   aislinAnimator: {fileID: 982175528}
   grozarAnimator: {fileID: 0}
   felixAnimator: {fileID: 1582852042}
-  bgmManager: {fileID: 0}
+  bgmManager: {fileID: 1257292852}
+  dialogBGMSource: {fileID: 0}
+  dialogBGMClip: {fileID: 0}
+  fadeDuration: 1.5
 --- !u!4 &1272413252
 Transform:
   m_ObjectHideFlags: 0
@@ -1694,37 +1691,6 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 750.5205, y: 762, z: -27.40586}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &1308269202
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1308269203}
-  m_Layer: 0
-  m_Name: Campos_Grozar
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1308269203
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1308269202}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1502, y: 1015, z: -413}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2317,7 +2283,6 @@ SceneRoots:
   - {fileID: 1272413252}
   - {fileID: 508798061}
   - {fileID: 139617400}
-  - {fileID: 1308269203}
   - {fileID: 1115880050}
   - {fileID: 425848523}
   - {fileID: 1891991467}
